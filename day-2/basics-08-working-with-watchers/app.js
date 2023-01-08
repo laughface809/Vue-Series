@@ -46,7 +46,7 @@ const app = Vue.createApp({
       if (this.name === '') {
         return '';
       }
-      return this.name + ' ' + 'Schwarzmüller';
+      return this.name + ' ' + 'One';
     },
     setName(event) {
       this.name = event.target.value;

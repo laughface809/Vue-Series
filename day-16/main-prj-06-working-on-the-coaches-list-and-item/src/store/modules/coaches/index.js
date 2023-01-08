@@ -10,7 +10,7 @@ export default {
         {
           id: 'c1',
           firstName: 'Users',
-          lastName: 'Schwarzmüller',
+          lastName: 'One',
           areas: ['frontend', 'backend', 'career'],
           description:
             "I'm Users and I've worked as a freelance web developer for years. Let me help you become a developer as well!",
