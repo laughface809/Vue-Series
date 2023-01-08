@@ -19,13 +19,13 @@ export default {
     UserData
   },
   setup() {
-    // const uName = ref('Maximilian');
+    // const uName = ref('Users');
     const firstName = ref('');
     const lastName = ref('');
     const lastNameInput = ref(null);
     const uAge = ref(31);
     // const user = reactive({
-    //   name: 'Maximilian',
+    //   name: 'Users',
     //   age: 31,
     // });
 
@@ -60,7 +60,7 @@ export default {
   },
   // data() {
   //   return {
-  //     userName: 'Maximilian',
+  //     userName: 'Users',
   //     age: 31
   //   };
   // },

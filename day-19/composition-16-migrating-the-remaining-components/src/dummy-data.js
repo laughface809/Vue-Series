@@ -1,7 +1,7 @@
 export default [
   {
     id: 'max',
-    fullName: 'Maximilian Schwarzmüller',
+    fullName: 'User One',
     projects: [
       { id: 'max_p1', title: 'Record the Vue course' },
       { id: 'max_p2', title: 'Create more courses' },

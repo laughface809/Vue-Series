@@ -10,10 +10,10 @@ import { reactive } from 'vue';
 
 export default {
   setup() {
-    // const uName = ref('Maximilian');
+    // const uName = ref('Users');
     // const uAge = ref(31);
     const user = reactive({
-      name: 'Maximilian',
+      name: 'Users',
       age: 31,
     });
 
@@ -28,7 +28,7 @@ export default {
   },
   // data() {
   //   return {
-  //     userName: 'Maximilian',
+  //     userName: 'Users',
   //   };
   // },
 };

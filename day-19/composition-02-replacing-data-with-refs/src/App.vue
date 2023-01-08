@@ -9,7 +9,7 @@ import { ref } from 'vue';
 
 export default {
   setup() {
-    const uName = ref('Maximilian');
+    const uName = ref('Users');
 
     setTimeout(function() {
       uName.value = 'Max';
@@ -19,7 +19,7 @@ export default {
   }
   // data() {
   //   return {
-  //     userName: 'Maximilian',
+  //     userName: 'Users',
   //   };
   // },
 };

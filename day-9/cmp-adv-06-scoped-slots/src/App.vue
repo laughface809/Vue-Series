@@ -31,7 +31,7 @@ export default {
   data() {
     return {
       activeUser: {
-        name: 'Maximilian Schwarzmüller',
+        name: 'User One',
         description: 'Site owner and admin',
         role: 'admin',
       },

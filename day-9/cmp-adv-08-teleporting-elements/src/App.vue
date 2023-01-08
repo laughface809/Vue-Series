@@ -30,7 +30,7 @@ export default {
     return {
       selectedComponent: 'active-goals',
       activeUser: {
-        name: 'Maximilian Schwarzmüller',
+        name: 'User One',
         description: 'Site owner and admin',
         role: 'admin',
       },
